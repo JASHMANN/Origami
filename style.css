@@ -1,0 +1,6 @@
+.hover{
+    background-color:white;
+}
+.hover:hover{
+    background-color:aqua;
+}
